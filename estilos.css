@@ -25,4 +25,6 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
+}section {
+    padding: 20px;
 }
